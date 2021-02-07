@@ -6,7 +6,7 @@
 
  ////////////////////// all these value are false /////////////////////////////////////////////
 
- if(){
+ if(undefined){
      console.log('condition is true');
  }
  else{
