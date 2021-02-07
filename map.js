@@ -17,5 +17,5 @@ console.log(numbers);
 // })
 
 
-const output = numbers.map(element => element * element);
+const output = numbers.map(element => element * element);   // will return an array
 console.log(output);
